@@ -1,1 +1,3 @@
-vscode/
+# ignore vscode and exe files
+vscode
+*.exe
